@@ -1,0 +1,13 @@
+case_id,case_code,age_band,last_known_zone,last_known_time,sighting_id,sighting_zone,sighting_time,source_type,source_verified,confidence_score,direction_consistency_score,time_consistency_score,location_consistency_score,safe_reporting_channel,duplicate_check,search_zone_priority,responder_review_status
+CASE001,SYN-001,Child,Zone A,2026-08-19 08:20,S001,Zone A,2026-08-19 08:35,Authorized staff,Yes,92,88,94,91,Yes,Clear,High,Human review
+CASE001,SYN-001,Child,Zone A,2026-08-19 08:20,S002,Zone B,2026-08-19 08:50,Verified witness,Yes,86,82,89,84,Yes,Clear,High,Human review
+CASE001,SYN-001,Child,Zone A,2026-08-19 08:20,S003,Zone C,2026-08-19 09:25,Community report,Pending,54,61,57,52,Yes,Review,Moderate,Verify
+CASE002,SYN-002,Child,Zone D,2026-08-19 10:10,S004,Zone D,2026-08-19 10:28,Authorized staff,Yes,95,93,96,94,Yes,Clear,High,Human review
+CASE002,SYN-002,Child,Zone D,2026-08-19 10:10,S005,Zone E,2026-08-19 11:05,Verified witness,Yes,81,79,84,80,Yes,Clear,Moderate,Human review
+CASE002,SYN-002,Child,Zone D,2026-08-19 10:10,S006,Zone F,2026-08-19 12:10,Community report,No,32,38,41,30,No,Possible duplicate,Low,Do not act until verified
+CASE003,SYN-003,Child,Zone G,2026-08-19 13:00,S007,Zone G,2026-08-19 13:17,Authorized staff,Yes,97,95,97,96,Yes,Clear,High,Human review
+CASE003,SYN-003,Child,Zone G,2026-08-19 13:00,S008,Zone H,2026-08-19 13:44,Verified witness,Yes,89,86,91,87,Yes,Clear,High,Human review
+CASE003,SYN-003,Child,Zone G,2026-08-19 13:00,S009,Zone I,2026-08-19 15:20,Community report,Pending,47,52,45,49,Yes,Review,Low,Verify
+CASE004,SYN-004,Child,Zone J,2026-08-19 15:30,S010,Zone J,2026-08-19 15:48,Authorized staff,Yes,93,90,95,92,Yes,Clear,High,Human review
+CASE004,SYN-004,Child,Zone J,2026-08-19 15:30,S011,Zone K,2026-08-19 16:15,Verified witness,Yes,84,81,87,83,Yes,Clear,Moderate,Human review
+CASE005,SYN-005,Child,Zone L,2026-08-19 16:40,S012,Zone M,2026-08-19 17:02,Community report,Pending,59,64,60,55,Yes,Review,Moderate,Verify
